@@ -1,0 +1,15 @@
+section{
+    background-color: lightgray;
+}
+section h2{
+    font: bold;
+}
+article ol li:first-child{
+    background-color: lightgreen;
+}
+.section-1{
+    text-decoration: line-through;
+}
+.footer a:hover{
+    color:orange;
+}
